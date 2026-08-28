@@ -58,9 +58,8 @@ Our goal is to provide students with a platform where **ideas can transform into
 - 🤝 **Mentorship & Networking**  
   Connecting students with alumni, industry professionals, technical experts, and fellow innovators.
 
----
 
-## 🛠️ Domains & Tech Stack
+  ## 🛠️ Domains & Tech Stack
 
 ```text
 ├── 🌐 Web & Cloud
@@ -91,70 +90,11 @@ Our goal is to provide students with a platform where **ideas can transform into
     ├── Wireframing
     └── Prototyping
 
-## 🤝 Contributing & Getting Involved
+🤝 Contributing & Getting Involved
 We welcome contributions from PMEC students, developers, designers, and open-source enthusiasts.
 
-## 🔧 Contribute to a Project
+🔧 How to Contribute to a Project
 Fork the repository.
-
 Create a new branch:
-
 git checkout -b feature/NewFeature
 
-Make your changes and commit them:
-git add .
-git commit -m "Add NewFeature"
-
-Push your branch:
-git push origin feature/NewFeature
-
-Open a Pull Request for the team to review.
-## 🚀 Bring Your Project to Idea & Innovation Cell!
-Have you built an interesting project, tool, website, application, or innovative solution?
-
-We invite PMECians and student developers to showcase their work under the Idea and Innovation Cell organization.
-
-## 💡 Ways to Get Your Project Featured
-## 📂 Submit Your Repository
-Have an existing project you'd like to open-source or incubate under IIC?
-
-You can:
-
-Open an Issue with your project details.
-Submit a Pull Request adding your project to our projects list.
-Reach out to the IIC team to discuss transferring your repository under the Idea & Innovation Cell GitHub organization.
-## 🧑‍💻 Contribute to Existing Projects
-Browse repositories under our organization and:
-
-Pick an existing issue.
-Propose a new feature.
-Fix bugs.
-Improve documentation.
-Add tests.
-Improve UI/UX.
-Build new functionality.
-Fork → Build → Test → Submit a Pull Request.
-
-All valid contributions will be reviewed by the team.
-
-💡 Pitch a New Project Idea
-Have an idea you'd like to build from scratch?
-
-Open a Discussion / Issue or contact us with your project roadmap.
-
-📧 Email: ideainnovationcell.pmec@gmail.com
-
-## 📬 Connect With Us
-<p> 📧 <strong>Email:</strong> <a href="mailto:ideainnovationcell.pmec@gmail.com"> ideainnovationcell.pmec@gmail.com </a> </p> <p> 💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/idea-and-innovation-cell-pmec-838392431"> Idea and Innovation Cell - PMEC </a> </p> <p> 📸 <strong>Instagram:</strong> <a href="https://www.instagram.com/ideainnovationcell.pmec"> @ideainnovationcell.pmec </a> </p> <p> 🏢 <strong>Location:</strong><br> Room 113, Academic Main Building,<br> Parala Maharaja Engineering College (PMEC),<br> Sitalapalli, Berhampur, Odisha – 761003 </p>
-🌱 Our Vision
-"Build. Innovate. Collaborate. Impact."
-
-We believe every great innovation starts with an idea.
-
-Our mission is to create an environment where students can learn, experiment, collaborate, build real-world projects, and turn innovative ideas into impactful solutions.
-
-<div align="center">
-💡 Have an Idea? Let's Build It Together! 🚀
-Idea and Innovation Cell — PMEC
-
-</div> ```
