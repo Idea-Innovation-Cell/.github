@@ -89,7 +89,7 @@ Our goal is to provide students with a platform where **ideas can transform into
     ├── Adobe Suite
     ├── Wireframing
     └── Prototyping
-
+```
 🤝 Contributing & Getting Involved
 We welcome contributions from PMEC students, developers, designers, and open-source enthusiasts.
 
