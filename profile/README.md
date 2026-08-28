@@ -41,11 +41,13 @@
 
 ## 🛠️ Domains & Tech Stack
 
-```text
+
 ├── Web & Cloud       : Next.js, React, Node.js, Express, MongoDB, PostgreSQL, TailwindCSS
 ├── Mobile & Software : Flutter, React Native, Python, Java, C++
 ├── AI & Data Science : Python, TensorFlow, PyTorch, Scikit-learn
 └── UI / UX & Design  : Figma, Adobe Suite, Wireframing & Prototyping
+
+---
 🤝 Contributing & Getting Involved
 We welcome contributions from students, developers, and open-source enthusiasts:
 
